@@ -1,0 +1,20 @@
+body{
+    background-color: lightcyan;
+    color:blueviolet
+}
+h1{
+    color:blue
+}
+p{
+    color:cadetblue
+}
+img{
+    border-radius: 50%;
+}
+#special{
+    color:brown
+}
+#special2{
+    color:#DC143C
+    background-color:#006400 
+}
